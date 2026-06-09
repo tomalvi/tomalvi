@@ -1,6 +1,6 @@
 # Hi, I'm Tomas 👋
 
-Full Stack Developer based in Amsterdam 🇳🇱 with 3+ years of professional experience building web applications end-to-end.
+Full Stack Developer based in Barcelona with 3+ years of professional experience building web applications end-to-end.
 
 I specialize in **PHP / Laravel** on the backend and **Vue.js** on the frontend. I care about clean architecture, real ownership, and shipping things that actually work in production.
 
