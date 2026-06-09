@@ -4,7 +4,7 @@ Full Stack Developer based in Barcelona with 3+ years of professional experience
 
 I specialize in **PHP / Laravel** on the backend and **Vue.js** on the frontend. I care about clean architecture, real ownership, and shipping things that actually work in production.
 
-Currently open to new opportunities — remote-first preferred.
+Currently open to new opportunities
 
 ---
 
@@ -41,12 +41,6 @@ Interactive world map for digital nomads — explore 50+ cities ranked by cost o
 Web service built with Laravel 13 & Vue 3 that tracks IoT shop visit events and automatically rewards customer loyalty by planting trees. Includes a built-in hardware simulator.
 
 `Laravel 13` `Vue.js 3` `PHP`
-
----
-
-## 📊 GitHub Stats
-
-![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomalvi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ---
 
